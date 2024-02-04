@@ -1,4 +1,4 @@
-# AskYourPDF - Your AI Research Assistant
+# AskYourPDF - Intelligent AI Research Assistant for Zotero
 AskYourPDF is a Zotero extension that allows you to query your Zotero documents using various AI models such as GPT4, Claude and Mixtral
 
 ![!\[AYP\](assets/images/code.png)](assets/videos/chat_interface.gif)
