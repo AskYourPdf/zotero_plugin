@@ -23,7 +23,7 @@ Simple click on the AskYourPDF extension after installation and then select the 
 
 ### Access to Various State of the Art AI Models
 
-![!\[Drag and Drop\](assets/videos/drag-and-drop.gif)](assets/videos/feature_model_selection.gif)
+![!\[Drag and Drop\](assets/videos/feature_model_selection.gif)](assets/videos/feature_model_selection.gif)
 
 
 
