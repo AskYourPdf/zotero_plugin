@@ -5,7 +5,7 @@ AskYourPDF is a Zotero extension that allows you to query your Zotero documents 
 
 ## Installation
 
-- Download the latest release (.xpi file) from GitHub: https://github.com/AskYourPdf/zotero_plugin/releases/download/1.1.0/askyourpdf.xpi
+- Download the latest release (.xpi file) from GitHub: https://github.com/AskYourPdf/zotero_plugin/releases/download/1.0.1/askyourpdf.xpi
 - In Zotero select <em>Tools</em> from the top menu bar, and then click on <em>Addons</em>.
 - On the Add-ons Manager panel, click the gear icon at the top right corner and select <em>Install Add-on From File</em>
 - Select the .xpi file you just downloaded and click <em>Open</em> which will start the installation process.
