@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "1.0.0",
-          "update_link": "https://github.com/AskYourPdf/zotero_plugin/releases/download/1.0.0/askyourpdf.xpi",
+          "update_link": "https://github.com/AskYourPdf/zotero_plugin/releases/download/1.0.1/askyourpdf.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "60.0"
@@ -13,7 +13,7 @@
         },
         {
           "version": "1.0.0",
-          "update_link": "https://github.com/AskYourPdf/zotero_plugin/releases/download/1.0.0/askyourpdf.xpi",
+          "update_link": "https://github.com/AskYourPdf/zotero_plugin/releases/download/1.0.1/askyourpdf.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
