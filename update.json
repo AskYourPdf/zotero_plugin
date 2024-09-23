@@ -3,7 +3,7 @@
     "support@askyourpdf.com": {
       "updates": [
         {
-          "version": "1.0.0",
+          "version": "1.0.1",
           "update_link": "https://github.com/AskYourPdf/zotero_plugin/releases/download/1.0.1/askyourpdf.xpi",
           "applications": {
             "gecko": {
@@ -12,7 +12,7 @@
           }
         },
         {
-          "version": "1.0.0",
+          "version": "1.0.1",
           "update_link": "https://github.com/AskYourPdf/zotero_plugin/releases/download/1.0.1/askyourpdf.xpi",
           "applications": {
             "zotero": {
